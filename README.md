@@ -9,8 +9,8 @@ U can add whatever you want idrc. add grapics , make map bigger , add new enemie
 
 
 ///tutorial
-move using wsad
-shoot using LMB
-throw grenades using RMB
-buy upgrades in a green zone
-try to survive!
+/move using wsad/
+/shoot using LMB/
+/throw grenades using RMB/
+/buy upgrades in a green zone/
+/try to survive!/
